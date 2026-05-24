@@ -1,0 +1,6 @@
+algorithm,n_windows,mean_sharpe,std_sharpe,min_sharpe,max_sharpe,mean_cum_return,mean_max_dd
+Equal_Weight,6,1.0995,1.312,-0.747,2.5851,22.41,-19.46
+Buy_Hold,6,1.0418,1.2948,-0.8062,2.5478,21.45,-19.48
+MktCap_Weight,6,1.6236,1.6402,-0.7023,3.2971,34.4,-18.68
+PPO,6,1.0461,1.3781,-0.8153,2.5372,20.98,-19.99
+DQN,6,1.0844,1.4109,-0.7282,2.5684,20.84,-18.57
